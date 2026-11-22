@@ -1,8 +1,8 @@
 {
-  "version": "0.0.10",
-  "url": "https://github.com/abhishekpk123/funtus-billing-releases/releases/download/test-v0.0.10/Funtus-Billing-Setup-0.0.10.exe",
-  "sha256": "c5763285df559ec61e1b6bd69501dc3d289dfed4580530f6b54760b3464ebcc6",
-  "size": 113632616,
+  "version": "0.0.11",
+  "url": "https://github.com/abhishekpk123/funtus-billing-releases/releases/download/test-v0.0.11/Funtus-Billing-Setup-0.0.11.exe",
+  "sha256": "2ae84b57df85060d24c11a22b17572f90f72c4faf218c323e99ff1c0cb1997b1",
+  "size": 113632536,
   "releaseDate": "2026-11-22",
   "notes": ""
 }
