@@ -1,0 +1,8 @@
+{
+  "version": "1.0.0",
+  "url": "https://github.com/abhishekpk123/funtus-billing-releases/releases/download/v1.0.0/Funtus-Billing-Setup-1.0.0.exe",
+  "sha256": "0a43e3912ac12b6c23c48565ecadefeca7a939c4a22f58b838d260ed04dd1468",
+  "size": 113632032,
+  "releaseDate": "2026-11-23",
+  "notes": "First release: counter billing with GST invoices, receipts, bills and credit notes, Day Close, reports, and encrypted Telegram backups."
+}
