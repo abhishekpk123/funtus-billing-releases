@@ -1,8 +1,8 @@
 {
-  "version": "1.1.0",
-  "url": "https://github.com/abhishekpk123/funtus-billing-releases/releases/download/v1.1.0/Funtus-Billing-Setup-1.1.0.exe",
-  "sha256": "12acb5df687a68aec82bdf0f11ca15c23f5a6f0e5eb2f48809bee834dcc95d44",
-  "size": 113795136,
-  "releaseDate": "2026-11-23",
-  "notes": "Birthday bookings with advances, inclusions, extras, payments and cancel with refunds; memberships sold without customer details; no GSTIN fields (B2C); Socks at 0% GST on new installs (set Socks, Dolls and Bags to 0% in Packages on this PC); a new sidebar, Dashboard charts, Bills table, Reports toolbar and Settings in tabs."
+  "version": "1.2.0",
+  "url": "https://github.com/abhishekpk123/funtus-billing-releases/releases/download/v1.2.0/Funtus-Billing-Setup-1.2.0.exe",
+  "sha256": "2c29ee148719553de8d7df0e988d803207273e68662e58f51931c2e7d1afd15f",
+  "size": 113819664,
+  "releaseDate": "2026-11-24",
+  "notes": "The Funtus Billing logo; a Light and Dark switch for every user and New bill at the top right; the app opens on the Counter after the PIN with the sidebar folded; a membership needs the buyer's name and mobile, and its hours, validity and a note can be changed for one bill; a wider cart and full-height tables; Reports shown at once with quick ranges and GST by months; an Update available window; Staff given Settings see only Receipt and printer, Backup and About."
 }
