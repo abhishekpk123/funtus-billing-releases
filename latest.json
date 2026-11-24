@@ -1,8 +1,8 @@
 {
-  "version": "1.2.1",
-  "url": "https://github.com/abhishekpk123/funtus-billing-releases/releases/download/v1.2.1/Funtus-Billing-Setup-1.2.1.exe",
-  "sha256": "397148faa742da990a8a07d44c9b82206ba36cf8e385950f04b252be8709f534",
-  "size": 113819816,
+  "version": "1.2.2",
+  "url": "https://github.com/abhishekpk123/funtus-billing-releases/releases/download/v1.2.2/Funtus-Billing-Setup-1.2.2.exe",
+  "sha256": "2cea33fc428b25cc165b7098d72141d4c38b01379027cf94e44b1015778afa40",
+  "size": 113818656,
   "releaseDate": "2026-11-24",
-  "notes": "The Dashboard shows the last backup (when, how it started and whether it worked); the business details, invoice series, timezone and idle lock can be changed by the Admin only."
+  "notes": "The update window stays on screen during an update: it shows the download and installs by itself, so no bill is started in the middle."
 }
