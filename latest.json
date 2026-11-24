@@ -1,8 +1,8 @@
 {
-  "version": "1.2.0",
-  "url": "https://github.com/abhishekpk123/funtus-billing-releases/releases/download/v1.2.0/Funtus-Billing-Setup-1.2.0.exe",
-  "sha256": "2c29ee148719553de8d7df0e988d803207273e68662e58f51931c2e7d1afd15f",
-  "size": 113819664,
+  "version": "1.2.1",
+  "url": "https://github.com/abhishekpk123/funtus-billing-releases/releases/download/v1.2.1/Funtus-Billing-Setup-1.2.1.exe",
+  "sha256": "397148faa742da990a8a07d44c9b82206ba36cf8e385950f04b252be8709f534",
+  "size": 113819816,
   "releaseDate": "2026-11-24",
-  "notes": "The Funtus Billing logo; a Light and Dark switch for every user and New bill at the top right; the app opens on the Counter after the PIN with the sidebar folded; a membership needs the buyer's name and mobile, and its hours, validity and a note can be changed for one bill; a wider cart and full-height tables; Reports shown at once with quick ranges and GST by months; an Update available window; Staff given Settings see only Receipt and printer, Backup and About."
+  "notes": "The Dashboard shows the last backup (when, how it started and whether it worked); the business details, invoice series, timezone and idle lock can be changed by the Admin only."
 }
