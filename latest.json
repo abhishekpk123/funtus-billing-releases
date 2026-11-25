@@ -1,8 +1,8 @@
 {
-  "version": "1.2.2",
-  "url": "https://github.com/abhishekpk123/funtus-billing-releases/releases/download/v1.2.2/Funtus-Billing-Setup-1.2.2.exe",
-  "sha256": "2cea33fc428b25cc165b7098d72141d4c38b01379027cf94e44b1015778afa40",
-  "size": 113818656,
-  "releaseDate": "2026-11-24",
-  "notes": "The update window stays on screen during an update: it shows the download and installs by itself, so no bill is started in the middle."
+  "version": "1.3.0",
+  "url": "https://github.com/abhishekpk123/funtus-billing-releases/releases/download/v1.3.0/Funtus-Billing-Setup-1.3.0.exe",
+  "sha256": "e7c369f7b9afcd33433415699897554e9caf8ea245814b9e99bad2ce27d0621a",
+  "size": 113830944,
+  "releaseDate": "2026-11-25",
+  "notes": "Billed By: choose who is billing on the Counter; the name is printed on the bill and shown in Bills"
 }
